@@ -1,0 +1,23 @@
+# APPEND HOWEVER YOU LIKE. BELOW ARE SOME POPULAR USER PAGES ALREADY, DO NOT SHY AWAY FROM ADDING MORE
+#
+# FORMAT:
+# Display_Name : User_Webpage/<user>/
+# ---------------------------
+Instagram:https://www.instagram.com/<user>/
+Facebook:https://www.facebook.com/<user>/
+SoundCloud:https://www.soundcloud.com/<user>/
+Twitter:https://www.twitter.com/<user>/
+YouTube:https://www.youtube.com/user/<user>/
+Reddit:https://www.reddit.com/user/<user>/
+Github:https://www.github.com/<user>/
+Flickr:https://www.flickr.com/people/<user>/
+Vimeo:https://vimeo.com/<user>/
+Medium:https://www.medium.com/@<user>/
+VK:https://www.vk.com/<user>/
+Spotify:https://open.spotify.com/user/<user>/
+Patreon:https://www.patreon.com/<user>/
+Buzzfeed:https://www.buzzfeed.com/<user>/
+Wikipedia:https://www.wikipedia.org/wiki/User:<user>/
+OkCupid:https://www.okcupid.com/profile/<user>/
+Xbox:https://www.xboxgamertag.com/search/<user>/
+BlogSpot:http://<user>.blogspot.com/
