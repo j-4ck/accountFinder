@@ -1,5 +1,5 @@
-#TOOL WRITTEN BY @0XJACK
-#LONG LIVE DELETEHUMANITY
+# TOOL WRITTEN BY @0XJACK
+# long live deletehumanity
 
 import requests
 import sys
