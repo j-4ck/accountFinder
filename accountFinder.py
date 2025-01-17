@@ -1,6 +1,3 @@
-# TOOL WRITTEN BY @0XJACK
-# long live deletehumanity
-
 import requests
 import sys
 from threading import Thread
